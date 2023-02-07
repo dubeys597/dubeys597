@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning Java Back-End Developer.  
 - 👯 I’m looking to collaborate on Linkedin.
 - 💬 Ask me about any Java Back-End related stuff.
-- 📫 you can reach me at dubeys597@gmail.com.
+- 📫 you can reach me at <a href="mailto:dubeys597@gmail.com">dubeys597@gmail.com</a>
 - 😄 Pronouns: He/Him.
 - <a href='https://drive.google.com/file/d/1Nb9TPkQ6lqZFnL3e3PNjkBmn4MQHMqM2/view?usp=sharing' target="_blank" rel="noopener noreferrer" >
    📝 Resume
