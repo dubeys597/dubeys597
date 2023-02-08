@@ -34,7 +34,7 @@
   ![living](https://img.shields.io/badge/living-Bokaro,Jharkhand-maroon)
   ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
 </div>
-<br/>
+<br/> 
 
 <h3 align='center'> 🔍 Find me here </h3>
 <div align='center'>
