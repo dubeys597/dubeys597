@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;&center=true&width=500&height=50">
 </p>
 
-
+<h2 align="center">About Me</h2>
 <h4 align='center'>A Passionate Java Backend Developer with hands-on experience in designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning.</h4>
 <br>
 
