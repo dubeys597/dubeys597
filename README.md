@@ -1,4 +1,4 @@
-<p align="center"><img src='https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif'></p>
+<p align="center"><img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"  alt="Coding" width="100%"height="500"></p>
 
 <h2 align="center">
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://github.com/dubeys597" target="_blank" rel="noopener noreferrer">Shubham Dubey</a>.
