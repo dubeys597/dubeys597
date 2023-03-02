@@ -35,7 +35,7 @@
   ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
 </div>
 <br/> 
-
+ 
 <h3 align='center'> 🔍 Find me here </h3>
 <div align='center'>
 
